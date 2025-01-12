@@ -17,6 +17,18 @@
 	<classpathentry kind="src" path="DK06"/>
 	<classpathentry kind="src" path="DK07"/>
 	<classpathentry kind="src" path="DK08"/>
+	<classpathentry kind="src" path="DK09"/>
+	<classpathentry kind="src" path="DK10"/>
+	<classpathentry kind="src" path="VL01"/>
+	<classpathentry kind="src" path="SUM1"/>
+	<classpathentry kind="src" path="VL03"/>
+	<classpathentry kind="src" path="VL04"/>
+	<classpathentry kind="src" path="VL05"/>
+	<classpathentry kind="src" path="GT1"/>
+	<classpathentry kind="src" path="VL07"/>
+	<classpathentry kind="src" path="VL08"/>
+	<classpathentry kind="src" path="VL09"/>
+	<classpathentry kind="src" path="VL10"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
